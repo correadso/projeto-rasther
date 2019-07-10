@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Veiculo.qml</file>
+        <file>Montadora.qml</file>
+        <file>Sistema.qml</file>
+        <file>TiposSistema.qml</file>
+        <file>Aplicacao.qml</file>
+        <file>Conector.qml</file>
+    </qresource>
+</RCC>
